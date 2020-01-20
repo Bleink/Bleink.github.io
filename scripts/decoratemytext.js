@@ -1,7 +1,10 @@
-//window.onload = function() {
-//"use strict";
-function hello() {
-    alert("Hello, World!");
+window.onload = function loader() {
+    "use strict";
+    window.onload = function loading(){
+        document.getElementById("btn-decoration").onclick = changeSize;
+        document.getElementById("btn-malkovitch").onclick = MalkoniFive;
+        document.getElementById("btn-igpay").onclick = igpay;
+    }
 }
 
 function interval() {
@@ -67,5 +70,5 @@ function markov() {
     }
     document.getElementById("textarea").value = result;
 }
-//};
+
 
