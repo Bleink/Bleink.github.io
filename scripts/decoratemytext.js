@@ -1,6 +1,6 @@
 window.onload = function loader() {
     "use strict";
-    window.onload = function loading(){
+    window.onload = function (){
         document.getElementById("btn-decoration").onclick = changeSize;
         document.getElementById("btn-malkovitch").onclick = MalkoniFive;
         document.getElementById("btn-igpay").onclick = igpay;
