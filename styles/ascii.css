@@ -16,8 +16,9 @@ body{
     width: 90%;
     height: 400px;
     margin: auto;
+    color: red;
     font-family: monospace;
-    font: 12pt bold;
+    font-weight: bolder;
 }
 
 #allControls{
