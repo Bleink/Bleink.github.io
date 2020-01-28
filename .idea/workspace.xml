@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f2c589d-3f1c-4d32-bf5b-42e4bcd3c727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/accountTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/savingAccount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/inheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/inheritance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +41,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -60,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579715693560</updated>
       <workItem from="1579715695060" duration="4106000" />
-      <workItem from="1580010535813" duration="3569000" />
+      <workItem from="1580010535813" duration="5708000" />
     </task>
     <servers />
   </component>
