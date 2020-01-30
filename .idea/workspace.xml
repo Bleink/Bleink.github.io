@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f2c589d-3f1c-4d32-bf5b-42e4bcd3c727" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/maze.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/maze.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/maze.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/maze.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579715693560</updated>
       <workItem from="1579715695060" duration="4106000" />
-      <workItem from="1580010535813" duration="8993000" />
+      <workItem from="1580010535813" duration="10807000" />
+      <workItem from="1580273806216" duration="268000" />
     </task>
     <servers />
   </component>
@@ -85,13 +86,21 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="234" y="21" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1579717511548" />
+    <state x="102" y="117" key="FileChooserDialogImpl" timestamp="1580274072471">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="102" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1580274072471" />
     <state x="151" y="5" key="SettingsEditor" timestamp="1579717385505">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="151" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1579717385505" />
-    <state x="339" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580010540493">
+    <state x="339" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580273839324">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="339" y="187" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1580010540493" />
+    <state x="339" y="187" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1580273839324" />
+    <state x="75" y="87" key="new project wizard" timestamp="1580273967153">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="75" y="87" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1580273967153" />
   </component>
 </project>

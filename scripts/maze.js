@@ -4,8 +4,8 @@ $(document).ready(function () {
 
         $("div#maze").mouseleave(function() {
             if(start){
-                window.alert("You Lose!");
                 $(".boundary").addClass("youlose");
+                window.alert("You Lose!");
                 start = false;
             }
         });
@@ -14,8 +14,8 @@ $(document).ready(function () {
 
         $(".boundary").mouseover(function() {
             if(start) {
-                window.alert("You Lose!");
                 $(this).addClass("youlose");
+                window.alert("You Lose!");
                 start = false;
             }
         });
@@ -27,10 +27,8 @@ $(document).ready(function () {
             }
         });
 
-
         $("#start").click(function() {
             start = true;
             $(".boundary").removeClass("youlose");
         });
-    }
-);
+    });
